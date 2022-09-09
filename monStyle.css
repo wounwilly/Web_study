@@ -1,0 +1,15 @@
+header{
+    border: 1px solid #333;
+    background-color: silver;
+}
+
+h1{
+    text-align: center;
+}
+nav, article {
+    border-bottom: 1px solid #333;
+
+}
+footer {
+    background-color: silver;
+}
